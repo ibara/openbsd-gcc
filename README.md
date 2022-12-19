@@ -18,9 +18,11 @@ compilers for
 [C++](https://en.wikipedia.org/wiki/C%2B%2B),
 [D](https://dlang.org/),
 [Fortran](https://fortran-lang.org/en/),
+[Modula-2](https://en.wikipedia.org/wiki/Modula-2),
 [Objective-C](https://en.wikipedia.org/wiki/Objective-C),
+[Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++),
 and
-[Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C++).
+[Rust](https://www.rust-lang.org/).
 
 This package depends only on base system libraries.
 
