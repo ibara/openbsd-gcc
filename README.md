@@ -64,7 +64,7 @@ appropriate for the machine you want to install on.
 
 Alternatively, you could run a command such as:
 ```
-$ doas pkg_add https://github.com/ibara/openbsd-gcc/releases/download/`uname -m`/gcc-devel-13.0.0pl`date +%Y%m%d`.tgz
+$ doas pkg_add -Dunsigned https://github.com/ibara/openbsd-gcc/releases/download/`uname -m`/gcc-devel-14.0.0pl`date +%Y%m%d`.tgz
 ```
 Where `date +%Y%m%d` is the date code for the package.
 
