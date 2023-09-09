@@ -48,7 +48,7 @@ This package also contains the following binutils utilities:
 
 GCC is set to use the GNU as included in this package as its
 assembler. This guarantees the latest metadata support. It
-also proves the best matching for `-march=native` compiles.
+also provides the best matching for `-march=native` compiles.
 
 Why?
 ----
