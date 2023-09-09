@@ -14,6 +14,7 @@ date of git tree checkout.
 These packages are for people who need a more up-to-date GCC
 than official packages provide. This version of GCC includes
 compilers for
+[Ada](https://en.wikipedia.org/wiki/Ada_%28programming_language%29),
 [C](https://en.wikipedia.org/wiki/C_%28programming_language%29),
 [C++](https://en.wikipedia.org/wiki/C%2B%2B),
 [D](https://dlang.org/),
@@ -30,9 +31,9 @@ The compiler and utilities installs into `/usr/local/gnu/bin`
 to prevent conflicts with the official GCC packages.
 
 This package also contains the following binutils utilities:
-* GNU as
 * addr2line
 * ar
+* as
 * c++filt
 * elfedit
 * gprof
